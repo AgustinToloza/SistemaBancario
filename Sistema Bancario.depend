@@ -1,0 +1,423 @@
+# depslib dependency file v1.0
+1677424678 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Cliente.h"
+	"Util.h"
+
+1677425655 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Lista.h"
+
+1676654962 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1677458819 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lista.h"
+	"Pila.h"
+	"Cola.h"
+	"Util.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"Movimientos.h"
+
+1676654969 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\util.c
+	<stdlib.h>
+	<stdio.h>
+	"Util.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\cola.c
+	<stdbool.h>
+	"Cola.h"
+	"Util.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"Util.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1677425925 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\cuenta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lista.h"
+	"Cuenta.h"
+	"Util.h"
+
+1677427002 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\cuenta.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1677424678 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\movimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Movimientos.h"
+	"Util.h"
+
+1677427305 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario\movimientos.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1677424678 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Cliente.h"
+	"Util.h"
+
+1677425655 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Lista.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1676654962 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1677425925 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\cuenta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lista.h"
+	"Cuenta.h"
+	"Util.h"
+
+1677427002 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\cuenta.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1677866352 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	"Lista.h"
+	"Pila.h"
+	"Cola.h"
+	"Util.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"Movimientos.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1677427305 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\movimientos.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1677424678 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\movimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Movimientos.h"
+	"Util.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1676654969 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1\util.c
+	<stdlib.h>
+	<stdio.h>
+	"Util.h"
+
+1677424678 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Cliente.h"
+	"Util.h"
+
+1677425655 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Lista.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1676654962 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1677425925 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\cuenta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lista.h"
+	"Cuenta.h"
+	"Util.h"
+
+1677427002 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\cuenta.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1684194142 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	"Lista.h"
+	"Pila.h"
+	"Cola.h"
+	"Util.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"Movimientos.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1677427305 c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\movimientos.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1677424678 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\movimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Movimientos.h"
+	"Util.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1676654969 source:c:\users\gtx computacion\documents\unla\lenguaje c\sistema bancario - v1 - actual\util.c
+	<stdlib.h>
+	<stdio.h>
+	"Util.h"
+
+1685670126 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Cliente.h"
+	"Util.h"
+
+1685670066 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Lista.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1676657912 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1676654962 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1685731441 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\cuenta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lista.h"
+	"Pila.h"
+	"Cola.h"
+	"Cuenta.h"
+	"Util.h"
+
+1685731441 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\cuenta.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Pila.h"
+	"Cola.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1685746724 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lista.h"
+	"Pila.h"
+	"Cola.h"
+	"Util.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"Pago.h"
+	"Movimientos.h"
+
+1684849839 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1684849839 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1685739858 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\movimientos.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1685739858 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\movimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Movimientos.h"
+	"Util.h"
+
+1676657912 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1676654969 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\util.c
+	<stdlib.h>
+	<stdio.h>
+	"Util.h"
+
+1684800854 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\cola.c
+	<stdbool.h>
+	"Cola.h"
+	"Util.h"
+
+1684714582 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"Util.h"
+
+1684806717 source:c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\pago.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pago.h"
+	"Util.h"
+
+1684806717 c:\users\gtx computacion\documents\unla\segundo año\algoritmos y estructuras de datos\sistema bancario\pago.h
+
